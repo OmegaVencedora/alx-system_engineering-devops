@@ -1,7 +1,2 @@
 #!/bin/bash
-for item in 0x00-shell_basics
-do
-  if [-f $item]
-   then
-      echo[$item]
-  fi
+ls
